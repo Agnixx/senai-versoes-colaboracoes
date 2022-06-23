@@ -12,3 +12,5 @@ git remote add origin
 git remote 
 git push
 git pull
+
+lembrei do comando: git commit
